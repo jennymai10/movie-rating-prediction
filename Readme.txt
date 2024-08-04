@@ -1,9 +1,4 @@
-COMP30027 Machine Learning 2024
-Assignment 2
-
-_____________________________________________________
-
-The provided dataset is modified "IMDb rating prediction dataset".
+The dataset is modified "IMDb rating prediction dataset".
 
 https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset
 
